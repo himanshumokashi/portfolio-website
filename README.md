@@ -30,9 +30,6 @@ docker run -d -p 8080:80 portfolio-website
 
 Open: http://localhost:8080
 
-## Live Website
-
-Visit: http://13.200.243.242/
 
 The website is deployed on AWS EC2 using Docker, Nginx, and Jenkins CI/CD.
 

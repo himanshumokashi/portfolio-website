@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'portfolio-website'
-        EC2_HOST = '13.200.243.242'
+        EC2_HOST = '13.235.49.176'
         EC2_USER = 'ubuntu'
     }
 
